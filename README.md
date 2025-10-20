@@ -34,17 +34,17 @@ The workshop is split into three sessions:
 - **Session 1**:
     - **Lecture (1 hr):** Introduction to SciML and PINNs
     - **Code-along (30 min):** Training a PINN in PyTorch  
-    [<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>](https://colab.research.google.com/todo.ipynb)
+    [<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>](https://colab.research.google.com/github/benmoseley/scalable-pinns-workshop/blob/main/Session%201%20-%20Code%20Along%20-%20Training%20a%20PINN%20in%20PyTorch%20-%20Student.ipynb)
 
 - **Session 2**:
     - **Lecture (30 min):** Introduction to JAX
     - **Practical (1 hr):** Introduction to JAX and coding a PINN from scratch in JAX  
-    [<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>](https://colab.research.google.com/todo.ipynb)
+    [<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>](https://colab.research.google.com/https://github/benmoseley/scalable-pinns-workshop/blob/main/Session%202%20-%20Practical%20-%20Introduction%20to%20JAX%20and%20coding%20a%20PINN%20from%20scratch%20in%20JAX%20-%20Student.ipynb)
 
 - **Session 3**:
     - **Lecture (30 min):** Challenges with PINNs and improving their performance with domain decomposition and numerical linear algebra
     - **Practical (1 hr):** Coding finite basis PINNs and extreme learning machine FBPINNs in JAX  
-    [<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>](https://colab.research.google.com/todo.ipynb)
+    [<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>](https://colab.research.google.com/https://github/benmoseley/scalable-pinns-workshop/blob/main/Session%203%20-%20Practical%20-%20Coding%20finite%20basis%20PINNs%20and%20extreme%20learning%20machine%20FBPINNs%20in%20JAX%20-%20Student.ipynb)
 
 
 
