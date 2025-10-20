@@ -54,7 +54,7 @@ Each practical session involves you completing a notebook with missing code. Eac
 
 > Task: do this!
 
-The notebooks are designed for you to go at your own pace, and also contain extension excercises to stretch those with previous experience.
+The notebooks are designed for you to go at your own pace, and also contain extension exercises to stretch those with previous experience.
 
 If you get stuck, please ask the instructors for help, and the completed notebooks are available in this repository for your reference.
 
