@@ -25,6 +25,10 @@ By the end of the workshop, you should:
     Fig 1: Training times of the different models tested in this workshop (top) on the 1D harmonic oscillator problem (bottom)
 </div>
 
+---
+This workshop was taught during the [2025 CWI Autumn School on Scientific Machine Learning and Numerical Methods](https://www.cwi.nl/en/events/research-semester-programmes/scientific-machine-learning-and-numerical-methods-autumn-school/).
+
+---
 
 
 # Structure
