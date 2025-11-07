@@ -29,6 +29,8 @@ By the end of the workshop, you should:
 
 # Structure
 
+View the full workshop recording on [YouTube](https://www.youtube.com/watch?v=B-t-w8wAIiY).
+
 The workshop is split into three sessions:
 
 - **Session 1**:
