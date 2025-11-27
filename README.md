@@ -74,7 +74,7 @@ This workshop primarily builds upon our papers on FBPINNs and ELM-FBPINNs:
 
 > *[Finite Basis Physics-Informed Neural Networks (FBPINNs): a scalable domain decomposition approach for solving differential equations](https://link.springer.com/article/10.1007/s10444-023-10065-9), B. Moseley, T. Nissen-Meyer and A. Markham, Advances in Computational Mathematics, 2023.*
 
-> *[Local Feature Filtering for Scalable and Well-Conditioned Domain-Decomposed Random Feature Methods](https://arxiv.org/abs/2506.17626), J. W. van Beek, V. Dolean & B. Moseley, arXiv/under review, 2025.*
+> *[Local Feature Filtering for Scalable and Well-Conditioned Domain-Decomposed Random Feature Methods](https://doi.org/10.1016/j.cma.2025.118583), J. W. van Beek, V. Dolean & B. Moseley, Computer Methods in Applied Mechanics and Engineering, 2025.*
 
 > Check out our highly performant `fbpinns` [GitHub library](https://github.com/benmoseley/FBPINNs) if you want to build on FBPINNs further.
 
